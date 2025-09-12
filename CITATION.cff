@@ -1,0 +1,30 @@
+CITATION.cff
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "The Orchestration Framework (TOF): Bridge Summaries, Admin Notes, and Sentinel Flags for Reliable LLMs"
+authors:
+  - family-names: "Morrell"
+    given-names: "Lauren"
+    affiliation: "Independent Researcher & AI Systems Architect"
+    orcid: "https://orcid.org/0009-0005-9009-2424"   
+date-released: 2025-09-11
+version: "1.0.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/LMorrell88-LLM/TOF-Orchestration-Framework"
+keywords:
+  - AI
+  - LLM
+  - hallucination detection
+  - transparency
+  - interpretability
+  - provenance
+  - orchestration
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Morrell"
+      given-names: "Lauren"
+  year: 2025
+  title: "The Orchestration Framework (TOF): Bridge Summaries, Admin Notes, and Sentinel Flags for Reliable LLMs"
+  publisher: "GitHub"
+  url: "https://github.com/LMorrell88-LLM/TOF-Orchestration-Framework"
